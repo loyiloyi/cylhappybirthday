@@ -10,7 +10,7 @@ var chinese = "祝陈仪霖生日快乐";
 //converting the string into an array of single characters
 chinese = chinese.split("");
 
-var font_size = 10;
+var font_size = 30;
 var columns = c.width / font_size; //number of columns for the rain
 //an array of drops - one per column
 var drops = [];
